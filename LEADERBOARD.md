@@ -24,6 +24,7 @@ This leaderboard tracks contributors whose merged PRs have `level1`, `level2`, o
 | [@sabaaa01](https://github.com/sabaaa01) | xsabafatima01@gmail.com | 0 | 1 | 0 | 1 | 7 |
 | [@Tanvi0710](https://github.com/Tanvi0710) | - | 0 | 1 | 0 | 1 | 7 |
 | [@Triveni-Balekundri](https://github.com/Triveni-Balekundri) | balekundritriveni05@gmail.com | 0 | 1 | 0 | 1 | 7 |
+| [@Anusha271815](https://github.com/Anusha271815) | - | 1 | 0 | 0 | 1 | 3 |
 | [@rashmibarodiya](https://github.com/rashmibarodiya) | - | 1 | 0 | 0 | 1 | 3 |
 | [@Ayushii-uniyal](https://github.com/Ayushii-uniyal) | - | 1 | 0 | 0 | 1 | 3 |
 | [@pavigupta21](https://github.com/pavigupta21) | - | 1 | 0 | 0 | 1 | 3 |
